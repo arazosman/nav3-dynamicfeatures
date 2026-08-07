@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicFeatures</string>
+    <string name="title_onboarding">Onboarding Feature</string>
+    <string name="title_premium">Premium Feature</string>
+</resources>
