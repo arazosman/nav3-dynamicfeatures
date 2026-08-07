@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicFeatures</string>
+    <string name="title_login">Login Feature</string>
+    <string name="title_home">Home</string>
+</resources>
